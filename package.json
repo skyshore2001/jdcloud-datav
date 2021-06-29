@@ -38,7 +38,7 @@
     "rules": {},
     "globals": {
       "WUI": true,
-      "callSvr": true,
+      "callSvr": true
     }
   },
   "browserslist": [
