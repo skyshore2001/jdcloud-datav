@@ -6,6 +6,8 @@ Vue.use(dataV)
 
 Vue.config.productionTip = false
 
+document.title = "数据大屏"
+
 new Vue({
   render: h => h(App),
 }).$mount('#app')
